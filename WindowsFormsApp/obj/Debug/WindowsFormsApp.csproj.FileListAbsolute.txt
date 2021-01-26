@@ -1,0 +1,9 @@
+D:\Dev\.NET\Repos\Monolith\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Dev\.NET\Repos\Monolith\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Dev\.NET\Repos\Monolith\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Dev\.NET\Repos\Monolith\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+D:\Dev\.NET\Repos\Monolith\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Dev\.NET\Repos\Monolith\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Dev\.NET\Repos\Monolith\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Dev\.NET\Repos\Monolith\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Dev\.NET\Repos\Monolith\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
